@@ -12,23 +12,14 @@ NB:This website provides free index service for people globally that some websit
 |[子网掩码计算器](https://www.sojson.com/convert/subnetmask.html)|---------|--------|------|
 
 
-
-
-
 ## LaTeX/Markdown tools
-### Convert Excel/Table into LT/MD
+|Table|into|LT/MD|
+|------|---------|--------|
 |Markdown|[kit_01](https://tableconvert.com/excel-to-markdown)|------|
 |LaTeX|[kit_01](https://tableconvert.com/excel-to-latex)|[kit_02](https://www.tablesgenerator.com/) |
 
-
-
-
 ## Language Learning
-### Online Dictionary 
-
-|[Cambridge](https://dictionary.cambridge.org/) |
-### Translation
-|[Deepl](https://deepl.com/)  |[Google](http://translate.google.com/)  |
-
-
-
+|toolKit|--------|------|
+|---------|--------|------|
+|Dictionary|[Cambridge](https://dictionary.cambridge.org/) |------|
+|Translation| [Deepl](https://deepl.com/)  |[Google](http://translate.google.com/)  |
