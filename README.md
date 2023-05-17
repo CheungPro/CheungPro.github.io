@@ -1,17 +1,21 @@
 # 网址导航 ( index )
 
 Blog has been moved to “amysang.com”.
-[Blog Click Here](https://dictionary.cambridge.org/) 
+[Blog Click Here](https://amysang.com/) 
+E-mail me at ```admin at hengrui dot tech``` (please replace at and dot to @ and . respectively)
 
-## Search Engine
+## Search Engine & Networks
 
-[Bing](https://bing.com/) [Google](https://google.com/) 
+[Bing](https://bing.com/) [Duckduckgo](https://duckduckgo.com/)  [Google](https://google.com/)
+[ChatGPT](https://chat.openai.com/) 
 
+[子网掩码计算器](https://www.sojson.com/convert/subnetmask.html)
 
 ## LaTeX/Markdown tools
-[Table->Markdown](https://tableconvert.com/excel-to-markdown)
-[Table->LaTeX](https://tableconvert.com/excel-to-latex)
-[Table->LaTeX](https://www.tablesgenerator.com/) 
+### Convert Excel/Table into LT/MD
+[Markdown](https://tableconvert.com/excel-to-markdown)
+[LaTeX](https://tableconvert.com/excel-to-latex)
+[aTeX](https://www.tablesgenerator.com/) 
 
 ## Language Learning
 ### Online Dictionary 
