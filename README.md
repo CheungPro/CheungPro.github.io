@@ -4,6 +4,8 @@ Blog has been moved to “amysang.com”.
 [Blog Click Here](https://amysang.com/) 
 E-mail me at ```admin at hengrui dot tech``` (please replace at and dot to @ and . respectively)
 
+NB:This website provides free index service for people globally that some website may not accessible in your country.
+
 ## Search Engine & Networks
 
 [Bing](https://bing.com/) [Duckduckgo](https://duckduckgo.com/)  [Google](https://google.com/)
