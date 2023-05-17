@@ -26,3 +26,10 @@ NB:This website provides free index service for people globally that some websit
 |---------|--------|------|
 |Dictionary|[Cambridge](https://dictionary.cambridge.org/) |------|
 |Translation| [Deepl](https://deepl.com/)  |[Google](http://translate.google.com/)  |
+
+## Academic Research
+
+|Classify|--------|------|
+|---------|--------|------|
+|中文文献|[中国知网](https://www.cnki.net/) |------|
+|English| [ScienceDirect](https://sciencedirect.com/)  |------|
